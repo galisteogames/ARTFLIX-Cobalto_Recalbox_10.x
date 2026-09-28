@@ -22,6 +22,7 @@
          <size>1 1</size>
          <path>./newnxoverlay.png</path>
 		 <zIndex>70</zIndex>
+		 <backgroundColor>00000000</backgroundColor>
       </image>
 
       <image name="logo">
@@ -41,13 +42,15 @@
 		<pos>-0.05 0.935</pos>
          <fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
 	     <fontSize>0.016</fontSize>
-	     <color>FFFFFF</color>
+	     <color>FFFFFF</color>c
+	     <backgroundColor>00000000</backgroundColor>
 		 <zIndex>95</zIndex>
     </text>
 	  
 	  	 <text name="info1" extra="true">
 		<fontPath>./fonts/texgyre.otf</fontPath>
 		<color>FFFFFF</color>
+		<backgroundColor>00000000</backgroundColor>
 		<alignment>left</alignment>
 		<fontSize>0.02</fontSize>
 		<lineSpacing>1</lineSpacing>
@@ -59,6 +62,7 @@
 	<text name="info2" extra="true">
 		<fontPath>./fonts/polan.otf</fontPath>
 		<color>FFFFFF</color>
+		<backgroundColor>00000000</backgroundColor>
 		<alignment>left</alignment>
  		<fontSize>0.0388</fontSize>
 		<lineSpacing>1</lineSpacing>
@@ -71,9 +75,10 @@
 	<helpsystem name="help">
 		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
 		<fontSize>0.016</fontSize>
-         <pos>0.045 0.955</pos>
+      <pos>0.045 0.955</pos>
 		<textColor>EFEFEF</textColor>
 		<iconColor>EFEFEF95</iconColor>
+		<backgroundColor>00000000</backgroundColor>
 	</helpsystem>	  
 	  
 	  

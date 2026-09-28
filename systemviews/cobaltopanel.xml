@@ -48,9 +48,10 @@
 	<text name="systemInfo">
 	    <alignment>left</alignment>
 		<pos>0.067 0.518</pos>
-         <fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+         <fontPath>./../_inc/fonts/Cabin-Bold-TTF.ttf.ttf</fontPath>
 	     <fontSize>0.016</fontSize>
 	     <color>d3d3d3</color>
+	     <backgroundColor>00000000</backgroundColor>
 		 <zIndex>95</zIndex>
     </text>
 	  
