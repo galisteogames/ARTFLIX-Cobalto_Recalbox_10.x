@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Philips CD-i es un reproductor de CD multimedia interactivo desarrollado y comercializado por Royal Philips Electronics N.V., que lo apoyó desde diciembre de 1991 hasta finales de la década de 1990.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Philips CD-i</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Philips</text>
+		</text>
+		
+		</view>
+</theme>

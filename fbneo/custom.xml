@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Capcom modelos CPS-1, 2 e 3.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>CAPCOM</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Capcom Team</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+	</view>
+	
+
+</theme>
