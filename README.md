@@ -3,9 +3,9 @@
 
 </div>
 
-# ARTFLIX-Cobalto
+# ARTFLIX-COBALTO
 
-ALEKFULL's theme for Recalbox 7.x.x, 8.x.x and 9.x.x
+ALEKFULL's theme for Recalbox 10.x.x
 
 Created by Fagner (AlekFull) exclusively for the Galisteo Cobalto image sets, ARTFLIX-Cobalto was inspired by the ArtFlix interface. The focus of this theme is to let the artwork shine—whether it’s game covers or the iconic characters from each system.
 
