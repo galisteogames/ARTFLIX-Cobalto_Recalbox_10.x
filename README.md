@@ -1,33 +1,34 @@
 <div align="center">
-<img src=https://user-images.githubusercontent.com/69799468/136852752-de671bd5-b7ff-4dba-a3be-22d0aab3220b.png>
+<img width="600" height="317" alt="ARTFLIX_COBALTO_transparente" src="https://github.com/user-attachments/assets/93bdf9a8-38df-48cb-96e4-17b9ca3dac16" />
+
 </div>
 
 # ARTFLIX-Cobalto
 
-Novo tema ALEKFULL para o Recalbox 7.x.x
+ALEKFULL's theme for Recalbox 7.x.x, 8.x.x and 9.x.x
 
-Criado por Fagner (AlekFull), exclusivo para as imagens Galisteo Cobalto. ARTFLIX-Cobalto foi inspirado na interface do ArtFlix. Foco nesse tema é dar espaço para as artes brilharem, capas dos jogos ou os personagens icônicos de cada sistema.
+Created by Fagner (AlekFull) exclusively for the Galisteo Cobalto image sets, ARTFLIX-Cobalto was inspired by the ArtFlix interface. The focus of this theme is to let the artwork shine—whether it’s game covers or the iconic characters from each system.
 
 ![foto01](https://user-images.githubusercontent.com/69799468/136852879-c747edd3-6f76-43fb-9e0b-1366c6c8b581.png)
 
-# Opções de visualização dos sistemas
+# System view options
 
-ARTFLIX-Cobalto vem com 4 vistas diferentes para seleção de sistemas (Cobalto, Cobalto Panel, NX e New NX). 
+ARTFLIX-Cobalto comes with 4 different views for system selection (Cobalto, Cobalto Panel, NX, and New NX). 
 
 ![foto02](https://user-images.githubusercontent.com/69799468/136852934-2a70c0dc-91fe-4dd8-b971-a6d2ce9746aa.png)
 
-# Artes exclusivas e suporte a mais de 200 sistemas
+# Exclusive artwork and support for over 200 systems
 
-Todas as artes foram feitas do zero - respeitando os jogos icônicos da plataforma representada de forma única.
+All the artwork was created from scratch—paying homage to the iconic games of the represented platform in a unique way.
 
 ![foto03](https://user-images.githubusercontent.com/69799468/136855451-9beef821-687d-420c-b599-93de90f551c6.png)
 
-# MUITAS OPÇÕES
+# Many other options
 
-ARTFLIX tem 4 opções de idiomas diferentes, que são modificados automaticamente, pelo idioma que estiver no sistema.
-Visuzalizações das telas de jogos no padrão Coinops.
+ARTFLIX offers four different language options, which automatically adjust based on the system's language setting.
+Game screen previews in the Coinops format.
 
 |--->  I M P O R T A N T E  <---|
 
-    Esse tema NÃO é AUTORIZADO para uso COMERCIAL!!
-    Compatível apenas com sistema RECALBOX
+This theme is NOT authorized for commercial use!! 
+Compatible only with the Recalbox system.
