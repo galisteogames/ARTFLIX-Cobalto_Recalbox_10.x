@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Mega Duck WG-108 (também distribuído sob o nome Cougar Boy na América do Sul) é um console de videogame portátil de 8 bits, concorrente direto do Nintendo Game Boy.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Mega Duck</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Welback Holding</text>
+		</text>			
+	</view>
+</theme>
