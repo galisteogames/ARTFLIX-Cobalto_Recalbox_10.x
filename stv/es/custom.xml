@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>El Sega Titan Video (ST-V) es una placa de sistema arcade de 1994 creada por Sega que comparte especificaciones de hardware casi idénticas con la consola doméstica Sega Saturn.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Titan Video</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+</theme>

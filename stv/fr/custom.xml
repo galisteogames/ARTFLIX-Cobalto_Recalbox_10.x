@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Le Sega Titan Video (ST-V) est une carte système d'arcade créée par Sega en 1994, dont les spécifications matérielles sont quasi identiques à celles de la console de salon Sega Saturn.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Titan Video</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+</theme>
