@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Texas Instruments TI-99/4A foi o primeiro computador doméstico de 16 bits do mundo, lançado em junho de 1981 pela Texas Instruments</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>TI-99/4A</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Texas Instruments</text>
+		</text>		
+	</view>
+</theme>

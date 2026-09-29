@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true">
+			<text>WASM-4 est une console de jeu virtuelle minimaliste (de style console fantastique) alimentée par WebAssembly, similaire à PICO-8, mais permettant la programmation dans n'importe quel langage capable de compiler en WASM.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>AWASM-4</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2020</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>WASM-4</text>
+		</text>		
+	</view>
+</theme>

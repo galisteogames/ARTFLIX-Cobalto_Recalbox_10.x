@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>La Sega NAOMI 2 es una placa arcade lanzada por Sega en el año 2000 como una evolución directa del sistema original Sega NAOMI.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Naomi 2</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>		
+	</view>
+</theme>

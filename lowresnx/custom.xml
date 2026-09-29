@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O LowRes NX é um console de jogos virtual retrô e ambiente de programação inspirado em sistemas clássicos de 8 e 16 bits.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>LowRes NX</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2020</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>LowRes NX</text>
+		</text>		
+	</view>
+</theme>

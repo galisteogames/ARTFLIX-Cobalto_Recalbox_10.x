@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>The BBC Microcomputer System is a series of microcomputers and associated peripherals designed and built by Acorn Computers Ltd.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>BBC Micro</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Acorn Computers Ltd.</text>
+		</text>		
+	</view>
+</theme>

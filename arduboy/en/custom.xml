@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>The Arduboy is a handheld console based on the open Arduino platform.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Arduboy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2016</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Kavin Bates</text>
+		</text>		
+	</view>
+</theme>

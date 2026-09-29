@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>The Sega NAOMI 2 is an arcade board released by Sega in 2000 as the direct evolution of the original Sega NAOMI system.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Naomi 2</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>		
+	</view>
+</theme>

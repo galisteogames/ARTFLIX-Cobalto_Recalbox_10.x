@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>The Macintosh is a line of personal computers created, manufactured, and marketed by Apple since January 1984.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Macintosh</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Apple</text>
+		</text>		
+	</view>
+</theme>

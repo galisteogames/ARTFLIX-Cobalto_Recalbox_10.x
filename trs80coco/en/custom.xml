@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>The TRS-80 Color Computer—also known as the Tandy Color Computer or affectionately nicknamed the CoCo—was an 8-bit home computer.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>TRS-80 Color Computer</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>RadioShack</text>
+		</text>		
+	</view>
+</theme>

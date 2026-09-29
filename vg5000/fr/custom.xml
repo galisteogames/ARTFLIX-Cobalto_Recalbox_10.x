@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true">
+			<text>Le Philips VG5000 (également connu sous le nom de VG5K) est un micro-ordinateur domestique 8 bits.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Philips VG5000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Philips</text>
+		</text>		
+	</view>
+</theme>

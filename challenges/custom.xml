@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Recalbox Challenges é um sistema integrado lançado na versão 10.1 do Recalbox que transforma o antigo "One Credit Challenge" em competições de placar global direto dentro da interface do sistema</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Challenges</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2026</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Recalbox</text>
+		</text>		
+	</view>
+</theme>

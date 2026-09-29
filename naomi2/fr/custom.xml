@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true">
+			<text>La Sega NAOMI 2 est une carte d'arcade sortie par Sega en 2000, évolution directe du système Sega NAOMI original.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Naomi 2</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>		
+	</view>
+</theme>
