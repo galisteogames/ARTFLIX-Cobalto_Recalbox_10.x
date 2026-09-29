@@ -1,5 +1,5 @@
 <!--
-ARTFLIX-COBALTO theme created by 'fagnerpc'
+ARTFLIX-COBALTO theme created by 'fagnerpc' and galisteo
 https://facebook.com/alekfull.arcade
 
 Version: 1.5, September 2026 
@@ -11,7 +11,7 @@ Theme prohibited for commercial use
 -->
 
 <theme>
-   <formatVersion>4</formatVersion>
+   <formatVersion>7</formatVersion>
 
 <include subset="systemview" name="1-Cobalto">./systemviews/cobalto.xml</include>
 <include subset="systemview" name="2-Cobalto Panel">./systemviews/cobaltopanel.xml</include>
