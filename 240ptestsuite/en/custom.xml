@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>The 240p Test Suite is natively integrated into Recalbox to assist with the precise calibration of CRT screens and retro monitors.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Suite de teste 240p</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2024</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Artemio</text>
+		</text>		
+	</view>
+</theme>

@@ -3,19 +3,19 @@
 
 	<view name="system">
 				<text name="info1" extra="true">
-			<text>Moonlight Game Streaming is an open-source client that allows you to stream games from a computer to other devices in high quality.</text>
+			<text>The Cassette Vision is a home console launched by Epoch in Japan. The machine's peculiarity: the processor NEC µPD777.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Epoch Cassette Vision</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1981</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Epoch</text>
 		</text>		
 	</view>
 </theme>

@@ -3,19 +3,19 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Moonlight Game Streaming é um cliente de código aberto que permite transmitir jogos de um computador para outros dispositivos em alta qualidade.</text>
+			<text>El EXL 100 es un ordenador lanzado en 1984 por la marca francesa Exelvision, basado en el microprocesador TMS 7020 de Texas Instruments.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>EXL 100</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1984</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Exelvision</text>
 		</text>		
 	</view>
 </theme>

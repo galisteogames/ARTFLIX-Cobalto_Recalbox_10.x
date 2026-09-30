@@ -3,19 +3,19 @@
 
 	<view name="system">
 			<text name="info1" extra="true">
-			<text>Le Moonlight Game Streaming est un client de code ouvert qui permet de transmettre des jeux d'un ordinateur pour d'autres appareils de haute qualité.</text>
+			<text>C'est un émulateur intégré au système, conçu pour faire tourner des jeux d'arcade des années 70.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Dice</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>2026</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Dice</text>
 		</text>		
 	</view>
 </theme>

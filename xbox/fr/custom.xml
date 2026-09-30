@@ -3,19 +3,19 @@
 
 	<view name="system">
 			<text name="info1" extra="true">
-			<text>Le Moonlight Game Streaming est un client de code ouvert qui permet de transmettre des jeux d'un ordinateur pour d'autres appareils de haute qualité.</text>
+			<text>Xbox est une marque de consoles de jeux vidéo de salon qui se compose de quatre gammes de consoles principales.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Xbox</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>2001</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Microsoft</text>
 		</text>		
 	</view>
 </theme>

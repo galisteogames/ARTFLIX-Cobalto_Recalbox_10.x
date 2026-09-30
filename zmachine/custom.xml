@@ -3,19 +3,19 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Moonlight Game Streaming é um cliente de código aberto que permite transmitir jogos de um computador para outros dispositivos em alta qualidade.</text>
+			<text>É uma máquina virtual criada pela Infocom na década de 1980 para rodar jogos baseados em texto, como Zork, The Hitchhiker's Guide to the Galaxy e Planetfall.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Z-Machine</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1980</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Infocom</text>
 		</text>		
 	</view>
 </theme>

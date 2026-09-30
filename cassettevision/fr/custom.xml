@@ -3,19 +3,19 @@
 
 	<view name="system">
 			<text name="info1" extra="true">
-			<text>Le Moonlight Game Streaming est un client de code ouvert qui permet de transmettre des jeux d'un ordinateur pour d'autres appareils de haute qualité.</text>
+			<text>La Cassette Vision est une console de salon lancée par Epoch au Japon. La particularité de la machine: le processeur NEC µPD777.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Epoch Cassette Vision</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1981</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Epoch</text>
 		</text>		
 	</view>
 </theme>

@@ -3,19 +3,19 @@
 
 	<view name="system">
 			<text name="info1" extra="true">
-			<text>Le Moonlight Game Streaming est un client de code ouvert qui permet de transmettre des jeux d'un ordinateur pour d'autres appareils de haute qualité.</text>
+			<text>Visual Pinball (« VP ») est un moteur de jeu vidéo gratuit, conçu à l'origine pour les flippers et les jeux similaires, tels que les machines de pachinko.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Visual Pinball</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>2000</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Randy Davis</text>
 		</text>		
 	</view>
 </theme>

@@ -3,19 +3,19 @@
 
 	<view name="system">
 				<text name="info1" extra="true">
-			<text>Moonlight Game Streaming is an open-source client that allows you to stream games from a computer to other devices in high quality.</text>
+			<text>MS-DOS (Microsoft Disk Operating System) was an operating system released by Microsoft in 1981 that was based entirely on a text-based command line.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>MS-DOS</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1981</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Microsoft</text>
 		</text>		
 	</view>
 </theme>

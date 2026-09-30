@@ -3,19 +3,19 @@
 
 	<view name="system">
 			<text name="info1" extra="true">
-			<text>Le Moonlight Game Streaming est un client de code ouvert qui permet de transmettre des jeux d'un ordinateur pour d'autres appareils de haute qualité.</text>
+			<text>La suite de tests 240p est intégrée nativement à Recalbox pour faciliter l'étalonnage précis des écrans CRT et des moniteurs rétro.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Suite de teste 240p</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>2024</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Artemio</text>
 		</text>		
 	</view>
 </theme>

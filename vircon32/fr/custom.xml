@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true">
+			<text>Vircon32 est une console de jeux entièrement nouvelle. Il s'agit d'un système 32 bits conçu pour être aussi simple que possible, tout en offrant suffisamment de fonctionnalités pour faire tourner des jeux complets et exigeants.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Vircon 32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2024</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Vircon 32</text>
+		</text>		
+	</view>
+</theme>

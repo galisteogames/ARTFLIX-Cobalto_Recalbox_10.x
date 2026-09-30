@@ -3,19 +3,19 @@
 
 	<view name="system">
 				<text name="info1" extra="true">
-			<text>Moonlight Game Streaming is an open-source client that allows you to stream games from a computer to other devices in high quality.</text>
+			<text>The Dragon 32 and Dragon 64 are home computers that were built in the 1980s.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Dragon 32</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1982</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Dragon Data, Ltd / Tano Corp</text>
 		</text>		
 	</view>
 </theme>

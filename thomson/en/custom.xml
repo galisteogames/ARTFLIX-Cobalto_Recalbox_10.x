@@ -3,19 +3,19 @@
 
 	<view name="system">
 				<text name="info1" extra="true">
-			<text>Moonlight Game Streaming is an open-source client that allows you to stream games from a computer to other devices in high quality.</text>
+			<text>The Thomson MO/TO computers form a line of 8-bit home computers produced by the French company Thomson SA.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Moonlight</text>
+			<text>Thomson MO/TO</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>2010</text>
+			<text>1982</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Moonlight</text>
+			<text>Thomson SA</text>
 		</text>		
 	</view>
 </theme>

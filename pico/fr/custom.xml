@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true">
+			<text>La Sega Pico était une console de jeux vidéo éducative 16 bits commercialisée par Sega.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Pico</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>		
+	</view>
+</theme>
